@@ -1,0 +1,14 @@
+D:\Estudos C#\AT_CS_Andre_LMFerreira\bin\Debug\net8.0\AT_CS_Andre_LMFerreira.exe
+D:\Estudos C#\AT_CS_Andre_LMFerreira\bin\Debug\net8.0\AT_CS_Andre_LMFerreira.deps.json
+D:\Estudos C#\AT_CS_Andre_LMFerreira\bin\Debug\net8.0\AT_CS_Andre_LMFerreira.runtimeconfig.json
+D:\Estudos C#\AT_CS_Andre_LMFerreira\bin\Debug\net8.0\AT_CS_Andre_LMFerreira.dll
+D:\Estudos C#\AT_CS_Andre_LMFerreira\bin\Debug\net8.0\AT_CS_Andre_LMFerreira.pdb
+D:\Estudos C#\AT_CS_Andre_LMFerreira\obj\Debug\net8.0\AT_CS_Andre_LMFerreira.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos C#\AT_CS_Andre_LMFerreira\obj\Debug\net8.0\AT_CS_Andre_LMFerreira.AssemblyInfoInputs.cache
+D:\Estudos C#\AT_CS_Andre_LMFerreira\obj\Debug\net8.0\AT_CS_Andre_LMFerreira.AssemblyInfo.cs
+D:\Estudos C#\AT_CS_Andre_LMFerreira\obj\Debug\net8.0\AT_CS_Andre_LMFerreira.csproj.CoreCompileInputs.cache
+D:\Estudos C#\AT_CS_Andre_LMFerreira\obj\Debug\net8.0\AT_CS_Andre_LMFerreira.dll
+D:\Estudos C#\AT_CS_Andre_LMFerreira\obj\Debug\net8.0\refint\AT_CS_Andre_LMFerreira.dll
+D:\Estudos C#\AT_CS_Andre_LMFerreira\obj\Debug\net8.0\AT_CS_Andre_LMFerreira.pdb
+D:\Estudos C#\AT_CS_Andre_LMFerreira\obj\Debug\net8.0\AT_CS_Andre_LMFerreira.genruntimeconfig.cache
+D:\Estudos C#\AT_CS_Andre_LMFerreira\obj\Debug\net8.0\ref\AT_CS_Andre_LMFerreira.dll
