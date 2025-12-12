@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Estudos C#\\AT_CS_Andre_LMFerreira\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AEBCE4B-3E23-4F93-897A-542C4CA75C24}|AT_CS_Andre_LMFerreira.csproj|d:\\estudos c#\\at_cs_andre_lmferreira\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AEBCE4B-3E23-4F93-897A-542C4CA75C24}|AT_CS_Andre_LMFerreira.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AEBCE4B-3E23-4F93-897A-542C4CA75C24}|AT_CS_Andre_LMFerreira.csproj|d:\\estudos c#\\at_cs_andre_lmferreira\\exercicios\\formatters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AEBCE4B-3E23-4F93-897A-542C4CA75C24}|AT_CS_Andre_LMFerreira.csproj|solutionrelative:exercicios\\formatters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AEBCE4B-3E23-4F93-897A-542C4CA75C24}|AT_CS_Andre_LMFerreira.csproj|d:\\estudos c#\\at_cs_andre_lmferreira\\exercicios\\exercicio12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AEBCE4B-3E23-4F93-897A-542C4CA75C24}|AT_CS_Andre_LMFerreira.csproj|solutionrelative:exercicios\\exercicio12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEBCE4B-3E23-4F93-897A-542C4CA75C24}|AT_CS_Andre_LMFerreira.csproj|d:\\estudos c#\\at_cs_andre_lmferreira\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AEBCE4B-3E23-4F93-897A-542C4CA75C24}|AT_CS_Andre_LMFerreira.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AEBCE4B-3E23-4F93-897A-542C4CA75C24}|AT_CS_Andre_LMFerreira.csproj|d:\\estudos c#\\at_cs_andre_lmferreira\\exercicios\\exercicio11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Formatters.cs",
+              "DocumentMoniker": "D:\\Estudos C#\\AT_CS_Andre_LMFerreira\\Exercicios\\Formatters.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Formatters.cs",
+              "ToolTip": "D:\\Estudos C#\\AT_CS_Andre_LMFerreira\\Exercicios\\Formatters.cs",
+              "RelativeToolTip": "Exercicios\\Formatters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:27:18.415Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -36,14 +53,14 @@
               "RelativeDocumentMoniker": "Exercicios\\Exercicio12.cs",
               "ToolTip": "D:\\Estudos C#\\AT_CS_Andre_LMFerreira\\Exercicios\\Exercicio12.cs",
               "RelativeToolTip": "Exercicios\\Exercicio12.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAkwIMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwIMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T22:00:33.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Contato.cs",
               "DocumentMoniker": "D:\\Estudos C#\\AT_CS_Andre_LMFerreira\\Exercicios\\Contato.cs",
               "RelativeDocumentMoniker": "Exercicios\\Contato.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Exercicios\\Contato.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAkwB8AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T21:57:29.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T21:57:29.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Exercicio11.cs",
               "DocumentMoniker": "D:\\Estudos C#\\AT_CS_Andre_LMFerreira\\Exercicios\\Exercicio11.cs",
               "RelativeDocumentMoniker": "Exercicios\\Exercicio11.cs",
@@ -64,12 +80,11 @@
               "RelativeToolTip": "Exercicios\\Exercicio11.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAkwF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T21:56:46.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T21:56:46.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Estudos C#\\AT_CS_Andre_LMFerreira\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
